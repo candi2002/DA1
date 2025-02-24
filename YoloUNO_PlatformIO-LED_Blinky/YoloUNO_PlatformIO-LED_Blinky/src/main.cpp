@@ -23,6 +23,6 @@ void setup() {
 }
 
 void loop() {
-  // Serial.println("Hello Custom Board");
+   Serial.println("Hello Custom Board");
   // delay(1000);
 }
